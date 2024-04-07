@@ -1,5 +1,12 @@
 ### Hi there 👋
 
+Hi, my name is Marco from Italy. I'm a full-stack developer and currently a student at Epicode. I'm passionate about Artificial Intelligence, and my skill set includes JavaScript, HTML, CSS, Bootstrap, React, PHP, Laravel, WordPress, Sass, and Redux.
+
+Ciao, mi chiamo Marco e vengo dall'Italia. Sono uno sviluppatore full-stack e attualmente sono uno studente presso Epicode. Sono appassionato di Intelligenza Artificiale e le mie competenze includono JavaScript, HTML, CSS, Bootstrap, React, PHP, Laravel, WordPress, Sass e Redux.
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=MarcoDelpimme)](https://github.com/anuraghazra/github-readme-stats)
+
+
 <!--
 **MarcoDelpimme/MarcoDelpimme** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
