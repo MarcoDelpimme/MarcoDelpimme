@@ -8,9 +8,9 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=marcodelpimme" alt="marcodelpimme" /></a> </p>
 
-- 🌱 I’m currently learning **Epicode FULL STACK course**
+<p align="left">- 🌱 I’m currently learning **Epicode FULL STACK course**</p>
 
-- 📫 How to reach me **marcodelimme@outlook.com**
+<p align="left">- 📫 How to reach me **marcodelimme@outlook.com**</p>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
