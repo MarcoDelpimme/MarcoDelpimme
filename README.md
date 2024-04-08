@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Marco</h1>
+<div align="center"><h1 align="center">Hi 👋, I'm Marco</h1>
 <h3 align="center">I'm a full-stack developer and currently a student at Epicode. I'm passionate about Artificial Intelligence, and my skill set includes JavaScript, HTML, CSS, Bootstrap, React, PHP, Laravel, WordPress, Sass, and Redux. Ciao, mi chiamo Marco e vengo dall'Italia. Sono uno sviluppatore full-stack e attualmente sono uno studente presso Epicode. Sono appassionato di Intelligenza Artificiale e le mie competenze includono JavaScript, HTML, CSS, Bootstrap, React, PHP, Laravel, WordPress, Sass e Redux.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=marcodelpimme&label=Profile%20views&color=0e75b6&style=flat" alt="marcodelpimme" /> </p>
@@ -19,4 +19,4 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=marcodelpimme&show_icons=true&locale=en&layout=compact" alt="marcodelpimme" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=marcodelpimme&show_icons=true&locale=en" alt="marcodelpimme" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=marcodelpimme&show_icons=true&locale=en" alt="marcodelpimme" /></p><div/>
