@@ -1,6 +1,8 @@
 <div align="center"><h1 align="center">Hi 👋, I'm Marco</h1>
-<h3 align="center">  <img src="https://upload.wikimedia.org/wikipedia/en/thumb/a/ae/Flag_of_the_United_Kingdom.svg/320px-Flag_of_the_United_Kingdom.svg.png" alt="English Flag" width="50px" height="35px">I'm a full-stack developer and currently a student at Epicode. I'm passionate about Artificial Intelligence, and my skill set includes JavaScript, HTML, CSS, Bootstrap, React, PHP, Laravel, WordPress, Sass, and Redux.</h3>
-<h3 align="center"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/03/Flag_of_Italy.svg/320px-Flag_of_Italy.svg.png" alt="Italian Flag" width="50px" height="35px">  Ciao, mi chiamo Marco e vengo dall'Italia. Sono uno sviluppatore full-stack e attualmente sono uno studente presso Epicode. Sono appassionato di Intelligenza Artificiale e le mie competenze includono JavaScript, HTML, CSS, Bootstrap, React, PHP, Laravel, WordPress, Sass e Redux.</h3>
+   <img src="https://upload.wikimedia.org/wikipedia/en/thumb/a/ae/Flag_of_the_United_Kingdom.svg/320px-Flag_of_the_United_Kingdom.svg.png" alt="English Flag" width="50px" height="35px">
+<h3 align="center"> I'm a full-stack developer and currently a student at Epicode. I'm passionate about Artificial Intelligence, and my skill set includes JavaScript, HTML, CSS, Bootstrap, React, PHP, Laravel, WordPress, Sass, and Redux.</h3>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/03/Flag_of_Italy.svg/320px-Flag_of_Italy.svg.png" alt="Italian Flag" width="50px" height="35px">
+<h3 align="center">  Ciao, mi chiamo Marco e vengo dall'Italia. Sono uno sviluppatore full-stack e attualmente sono uno studente presso Epicode. Sono appassionato di Intelligenza Artificiale e le mie competenze includono JavaScript, HTML, CSS, Bootstrap, React, PHP, Laravel, WordPress, Sass e Redux.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=marcodelpimme&label=Profile%20views&color=0e75b6&style=flat" alt="marcodelpimme" /> </p>
 
