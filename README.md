@@ -4,7 +4,7 @@
 <h3 align="center">  Ciao, mi chiamo Marco e vengo dall'Italia. Sono uno sviluppatore full-stack. Sono appassionato di Intelligenza Artificiale e le mie competenze includono JavaScript, HTML, CSS, Bootstrap, React, PHP, Laravel, WordPress, Sass e Redux.</h3>
 
 <img src="https://upload.wikimedia.org/wikipedia/en/thumb/a/ae/Flag_of_the_United_Kingdom.svg/320px-Flag_of_the_United_Kingdom.svg.png" alt="English Flag" width="50px" height="35px">
-<h3 align="center"> I'm a full-stack developer and currently a student at Epicode. I'm passionate about Artificial Intelligence, and my skill set includes JavaScript, HTML, CSS, Bootstrap, React, PHP, Laravel, WordPress, Sass, and Redux.</h3>
+<h3 align="center"> I'm a full-stack developer. I'm passionate about Artificial Intelligence, and my skill set includes JavaScript, HTML, CSS, Bootstrap, React, PHP, Laravel, WordPress, Sass, and Redux.</h3>
 
 <h1 align="center"></h1>
    
