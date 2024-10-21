@@ -14,7 +14,7 @@
 
 <h1 align="center"></h1>
 
-<p align="left">- 🌱 I’m currently learning **Epicode FULL STACK course**</p>
+
 
 <p align="left">- 📫 How to reach me **marcodelimme@outlook.com**</p>
 
