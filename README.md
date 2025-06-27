@@ -26,6 +26,7 @@ Negli ultimi anni ho progettato e sviluppato **piattaforme SaaS**, portali per l
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" width="30"/></div>
 
 **Framework & Tooling**  
+<div style:"display:flex">
 <img src="https://cdn.worldvectorlogo.com/logos/django.svg" width="30"/>  
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/laravel/laravel-plain.svg" width="30"/>  
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" width="30"/>  
@@ -34,7 +35,7 @@ Negli ultimi anni ho progettato e sviluppato **piattaforme SaaS**, portali per l
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tailwindcss/tailwindcss-plain.svg" width="30"/>  
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" width="30"/>  
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sqlserver/sqlserver-original.svg" width="30"/>
-
+</div>
 ---
 
 ### 💼 Progetti chiave
