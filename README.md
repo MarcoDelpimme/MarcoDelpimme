@@ -19,11 +19,11 @@ Negli ultimi anni ho progettato e sviluppato **piattaforme SaaS**, portali per l
 ### 🛠️ Tech Stack
 
 **Linguaggi principali**  
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="30"/>  
+<div style:"display:flex"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="30"/>  
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="30"/>  
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" width="30"/>  
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" width="30"/>  
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" width="30"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" width="30"/></div>
 
 **Framework & Tooling**  
 <img src="https://cdn.worldvectorlogo.com/logos/django.svg" width="30"/>  
