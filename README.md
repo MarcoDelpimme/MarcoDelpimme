@@ -36,7 +36,7 @@ Negli ultimi anni ho progettato e sviluppato **piattaforme SaaS**, portali per l
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" width="30"/>  
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sqlserver/sqlserver-original.svg" width="30"/>
 </div>
----
+
 
 ### 💼 Progetti chiave
 
