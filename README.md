@@ -4,7 +4,7 @@
 <p align="center">
   <img src="https://upload.wikimedia.org/wikipedia/commons/0/03/Flag_of_Italy.svg" alt="IT" width="40"/>
   &nbsp;
-  <img src="https://upload.wikimedia.org/wikipedia/en/a/ae/Flag_of_the_United_Kingdom.svg" alt="UK" width="40"/>
+  
 </p>
 
 ---
