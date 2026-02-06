@@ -63,7 +63,7 @@ Il mio focus principale è costruire **architetture robuste, auditabili e scalab
 <div>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="32"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" width="32"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/v2.17.0/icons/tailwindcss/tailwindcss-plain.svg" width="32"/>
+  <img src="https://cdn.simpleicons.org/tailwindcss/06B6D4" width="32"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" width="32"/>
 </div>
 
