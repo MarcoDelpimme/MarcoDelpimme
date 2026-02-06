@@ -1,134 +1,189 @@
 <h1 align="center">👋 Ciao, sono Marco</h1>
-<h3 align="center">🇮🇹 Full-Stack Developer | Sistemi PA & Sanità | Sicurezza & AI applicata</h3>
+<h3 align="center">🇮🇹 CTO / Software Architect | Sistemi Critici | PA, Sanità, Sicurezza & AI</h3>
 
 <p align="center">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/0/03/Flag_of_Italy.svg" alt="IT" width="40"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/0/03/Flag_of_Italy.svg" width="36"/>
 </p>
 
 ---
 
-## 🧑‍💻 Chi sono
+## 👨‍💼 Profilo Professionale
 
-Sono uno sviluppatore **full-stack** con un forte focus su **sistemi reali, complessi e critici**.  
-Negli ultimi anni ho progettato e sviluppato **piattaforme SaaS**, portali per la **Pubblica Amministrazione**, sistemi **sanitari digitali** e soluzioni **AI-driven**, curando l’intero ciclo di vita: architettura, sicurezza, deploy e manutenzione.
+Sono un **CTO / Software Architect** con forte background **hands-on**, specializzato nella progettazione e realizzazione di **sistemi complessi, critici e regolamentati**.  
+Opero su tutto il ciclo di vita del software: **analisi, architettura, sviluppo, sicurezza, deploy e governance tecnica**.
 
-Lavoro spesso su **contesti regolamentati**, dove **affidabilità, audit e sicurezza** sono requisiti fondamentali.
+Ho esperienza diretta in:
+- **Pubblica Amministrazione**
+- **Sanità digitale**
+- **Piattaforme SaaS B2B**
+- **Sistemi security-oriented**
+- **Soluzioni AI applicate a dati reali**
+
+Il mio focus principale è costruire **architetture robuste, auditabili e scalabili**, riducendo il rischio operativo e tecnico nel lungo periodo.
 
 ---
 
-## 🛠️ Tech Stack
+## 🧠 Responsabilità da CTO / Architect
+
+- Definizione **architetture software end-to-end**
+- Scelte tecnologiche e **governance tecnica**
+- Progettazione sistemi **multi-tenant e multi-ruolo**
+- Sicurezza applicativa e infrastrutturale
+- Scalabilità, affidabilità e osservabilità
+- Gestione debito tecnico e modernizzazione legacy
+- Supporto a **gare d’appalto** e documentazione tecnica
+- Allineamento tecnologia ↔ obiettivi di business
+
+---
+
+## 🛠️ Stack Tecnologico
 
 ### Linguaggi
 <div>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="30"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="30"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" width="30"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" width="30"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" width="30"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="32"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="32"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" width="32"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="32"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" width="32"/>
 </div>
 
-### Framework & Tooling
+### Backend & Application Layer
 <div>
-  <img src="https://cdn.worldvectorlogo.com/logos/django.svg" width="30"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/laravel/laravel-plain.svg" width="30"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" width="30"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nextjs/nextjs-original.svg" width="30"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain.svg" width="30"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tailwindcss/tailwindcss-plain.svg" width="30"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" width="30"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sqlserver/sqlserver-original.svg" width="30"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-original.svg" width="32"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" width="32"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="32"/>
 </div>
+
+- Laravel (API-only, MVC, Sanctum, Queue)
+- Django (ASGI, REST, Channels)
+- Node.js (REST API, Auth systems)
+- Architetture modulari e domain-driven (pragmatiche)
+
+### Frontend & UX Systems
+<div>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="32"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" width="32"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg" width="32"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" width="32"/>
+</div>
+
+- Next.js (App Router)
+- React
+- Tailwind CSS, Bootstrap
+- Dashboard interattive e UI custom (file explorer, workflow complessi)
+
+### Mobile & Desktop
+<div>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="32"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" width="32"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="32"/>
+</div>
+
+- React Native (Expo, offline-first, SQLite)
+- C# WinForms
+- Tool Python distribuiti come `.exe` (PyInstaller)
 
 ---
 
-## 🧩 Competenze Chiave
+## 🗄️ Database & Data Architecture
+<div>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="32"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="32"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" width="32"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redis/redis-original.svg" width="32"/>
+</div>
 
-### 🧠 Sviluppo Software
-- Full-stack web development
-- Backend: Laravel (API & MVC), Django, Django REST
-- Frontend: Next.js, React, Blade
-- Mobile: React Native (Expo, offline-first con SQLite)
-- Desktop: C# WinForms, Python (.exe con PyInstaller)
-- Progettazione API REST, sistemi di autenticazione (Sanctum, JWT, token-based)
-
-### 🗄️ Database & Data
 - MySQL, PostgreSQL, SQL Server
-- Progettazione schema DB complessi e multi-tenant
-- Query SQL avanzate e ottimizzazione
-- Logging centralizzato e audit trail
+- Progettazione schema complessi e **multi-tenant**
+- Query SQL avanzate e tuning prestazionale
+- Redis (cache, queue, websocket)
+- Logging centralizzato e **audit trail**
 
-### ⚙️ DevOps & Infrastructure
-- Deploy su Linux (Ubuntu Server) e Windows (IIS)
+---
+
+## ⚙️ DevOps & Infrastructure
+<div>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="32"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nginx/nginx-original.svg" width="32"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="32"/>
+</div>
+
+- Deploy su **Ubuntu Server** e **Windows IIS**
 - NGINX reverse proxy, SSL Let’s Encrypt
 - Daphne / ASGI, PHP-FPM
-- Redis (cache, queue, websocket)
-- Docker (compose, prime integrazioni)
-- DNS, VPN, networking di base
-- SSH avanzato e gestione server headless
+- Docker & Docker Compose
+- DNS, VPN, networking
+- SSH avanzato, server headless
+- Gestione ambienti produttivi reali
 
-### 🔐 Sicurezza Informatica
+---
+
+## 🔐 Sicurezza & DevSecOps
+
+- Sicurezza **by design**
+- Hardening applicativo (rate-limit, ban, WAF custom)
+- Protezione upload (ClamAV)
+- Logging forense e tracciamento accessi
 - Pentesting **etico** in laboratorio
 - Analisi vulnerabilità web e di rete
-- Metasploit, Meterpreter (testing controllato)
-- Hardening applicativo (rate limit, ban, WAF-like logic)
-- Protezione file sensibili e accesso tokenizzato
-- Analisi traffico sospetto e OPSEC di base
+- Metasploit & Meterpreter (testing controllato)
+- OPSEC applicativa
 
-### 🧬 Reverse Engineering & Low-Level Analysis
-- Runtime analysis con **Cheat Engine**
-- Static analysis con **Ghidra**
-- Debugging x86/x64 e memory inspection
-- Variable tracing e analisi comportamento applicativo
-- Studio malware e ransomware **a fini difensivi**
+---
 
-### 🤖 OCR, AI & Automazione
-- OCR: Donut AI, PaddleOCR, pipeline custom
-- AI Assistant per generazione SQL (RAG + fine tuning)
-- Automazioni con n8n
-- Integrazione modelli AI in workflow reali
-- Parsing PDF / XML / P7M (ambito sanitario e PA)
+## 🧬 Reverse Engineering & Low-Level
 
-### 🏛️ Sistemi PA / Sanità / Compliance
-- Integrazione Sistema TS (SOAP, X509)
-- Gestione flussi notturni, batch e riconciliazioni
+- **Cheat Engine** (runtime & memory analysis)
+- **Ghidra** (static analysis)
+- Debugging x86/x64
+- Variable tracing e comportamento applicativo
+- Analisi malware / ransomware **a fini difensivi**
+- Studio sistemi legacy e binari
+
+---
+
+## 🤖 AI, OCR & Automazione
+
+- OCR: PaddleOCR, Donut AI, pipeline custom
+- AI Assistant per generazione SQL (RAG + fine-tuning)
+- Integrazione AI in workflow reali
+- Automazioni con **n8n**
+- Parsing PDF / XML / P7M
+- Flussi sanitari e batch notturni
+
+---
+
+## 🏛️ PA, Sanità & Compliance
+
+- Integrazione **Sistema TS** (SOAP, X509)
 - DCR online, validazione XSD, firme digitali
-- Logging conforme e tracciabilità operazioni
+- Workflow regolamentati
+- Tracciabilità completa operazioni
+- Sistemi **compliance-ready** (sanità / PA)
 
 ---
 
-## 💼 Progetti Chiave
-
-- 🏛️ **Portali digitali per Comuni**  
-  Gestione pratiche edilizie, workflow multi-ruolo, sicurezza e audit.
-
-- 🏥 **Sistemi sanitari digitali**  
-  Dashboard, OCR referti, privacy-by-design, accesso controllato.
-
-- 🤖 **AI SQL Assistant**  
-  Generazione automatica di query SQL tramite NLP su database reali.
-
-- 🔐 **Sistemi di sicurezza applicativa**  
-  Logging forense, controllo accessi, hardening infrastrutturale.
-
----
-
-## 📈 GitHub Stats
-
+## 📊 GitHub Stats
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=marcodelpimme&show_icons=true&locale=it" />
+  <img src="https://github-readme-stats.vercel.app/api?username=marcodelpimme&show_icons=true&hide_title=true" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=marcodelpimme&layout=compact&langs_count=10" />
 </p>
 
 ---
 
 ## 📫 Contatti
-- 📧 Email: **marcodelimme@outlook.com**
-- 💼 LinkedIn: https://linkedin.com/in/marco-delpopolo-b6a1b4284
+- 📧 **marcodelimme@outlook.com**
+- 💼 https://linkedin.com/in/marco-delpopolo-b6a1b4284
+- https://mdelpimmepf.vercel.app/    (portfolio digitale in fase di costruzione)
 
 ---
 
-## 🧩 Curiosità
-- Lavoro spesso su **sistemi complessi e critici**
-- Studio attivamente **cybersecurity e reverse engineering**
-- Mi piace progettare architetture **modulari, sicure e scalabili**
-- Credo in una tecnologia **utile, verificabile e sostenibile**
+## 🧩 Visione
+Credo in una tecnologia:
+- **affidabile**
+- **verificabile**
+- **sicura**
+- **utile nel mondo reale**
+
+Architettura > moda.  
+Stabilità > hype.
