@@ -2,8 +2,9 @@
 <h3 align="center">🇮🇹 CTO / Software Architect | Sistemi Critici | PA, Sanità, Sicurezza & AI</h3>
 
 <p align="center">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/0/03/Flag_of_Italy.svg" width="36"/>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=16&duration=3500&pause=800&color=0A66C2&center=true&vCenter=true&width=700&lines=CTO+%2F+Software+Architect;Sistemi+Critici+per+PA+e+Sanit%C3%A0;Security+by+Design+%7C+AI+Applicata" />
 </p>
+
 
 ---
 
@@ -160,14 +161,6 @@ Il mio focus principale è costruire **architetture robuste, auditabili e scalab
 - Workflow regolamentati
 - Tracciabilità completa operazioni
 - Sistemi **compliance-ready** (sanità / PA)
-
----
-
-## 📊 GitHub Stats
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=marcodelpimme&show_icons=true&hide_title=true" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=marcodelpimme&layout=compact&langs_count=10" />
-</p>
 
 ---
 
